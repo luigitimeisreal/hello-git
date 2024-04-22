@@ -1,1 +1,1 @@
-print("HG 3")
+print("HG 3 2")
